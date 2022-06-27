@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("this is TestCode for GitHub");
+            Consoel.WriteLine("This is Edit to Chrome");
         }
     }
 }
